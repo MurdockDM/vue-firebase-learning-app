@@ -6,7 +6,7 @@
     <input type="password" placeholder="Password" />
     <br />
     <button>Connection</button>
-    <p>You don't have an account ? You can create one</p>
+    <p>You don't have an account ? You can <router-link to="/sign-up">create one</router-link></p>
   </div>
 </template>
 
