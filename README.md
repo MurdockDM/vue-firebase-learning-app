@@ -1,5 +1,7 @@
 # vue-firebase-learningapp
 
+This requires a file  with configuration information from your individual firebase project to work. It is imported as config in main.js
+
 ## Project setup
 ```
 npm install
